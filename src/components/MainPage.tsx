@@ -1,6 +1,6 @@
 import React from 'react';
 import Modal from './Modal';
-import state from '../store/name'
+import state from '../store/state'
 import { observer } from 'mobx-react-lite';
 
 const MainPage: React.FC = observer (() =>
